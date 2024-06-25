@@ -28,8 +28,8 @@ This project is a Dictionary web application built using HTML, CSS, and JavaScri
 ## Setup and Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/DictionaryApp.git
-   cd DictionaryApp
+   git clone https://github.com/bhoomikamittal8/DictionaryApp_api.git
+   cd DictionaryApp_api
    ```
 
 2. **Open the application**:
